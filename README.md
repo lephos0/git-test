@@ -1,5 +1,6 @@
 # git-test
 My first GitHub repo!
+
 Hello Odin! 
 
-I am going to do another commit.
+index.html is open source Boiler Plate HTML. 
