@@ -4,3 +4,5 @@ Let's do some fun things.
 This text is for the second commit.
 
 This text is for the third commit.
+
+Change to code.
